@@ -1,5 +1,6 @@
 import java.util.Random;
 
+
 class Array {
 	private int arr[];
 	private int temp[];
